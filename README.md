@@ -2,7 +2,9 @@
 
 ## Overview
 
-CyberHub is my private cybersecurity learning and operations environment built to develop real-world investigative and defensive security skills through hands-on execution.
+CyberHub is my private hands-on cybersecurity learning and operations environment focused on investigative workflows, telemetry analysis, threat hunting, detection engineering, malware traffic analysis, and defensive security operations.
+
+The environment is built around execution-first learning through repeated investigation, telemetry generation, evidence collection, validation, documentation, and real-world defensive security workflows.
 
 This repository is not intended to be a polished "hacker dashboard," social media project, or certification showcase. Its primary purpose is to support operational learning across SOC workflows, incident response, threat hunting, malware traffic analysis, telemetry analysis, and detection engineering.
 
